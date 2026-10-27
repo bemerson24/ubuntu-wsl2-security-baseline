@@ -4,6 +4,8 @@
 
 ## Overview
 
+**Portfolio overview:** [View the complete cybersecurity learning portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
+
 I installed and configured an Ubuntu Linux environment using **Windows Subsystem for Linux (WSL 2)** on a Windows 11 laptop. I then performed a guided, introductory security-baseline exercise covering account privileges, file permissions, running processes, listening network sockets, system services, logs, DNS resolution, and HTTPS connectivity.
 
 The goal was to establish a **repeatable investigation workflow**: observe system behavior, collect evidence, distinguish expected behavior from potential issues, and verify that a suspected issue still exists before changing configuration.
