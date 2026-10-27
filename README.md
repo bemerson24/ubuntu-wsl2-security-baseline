@@ -154,6 +154,7 @@ The work represents **foundational, guided hands-on experience**, not an advance
 ## Related portfolio projects
 
 - [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — Windows and Kali Linux virtualization with host-only networking validation still in progress.
+- [Security Operations Analyst Learning Roadmap](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/docs/security-operations-analyst-roadmap.md) — planned progression from networking and Security+ through Windows logs, KQL/Sentinel, endpoint/identity investigations, and incident response.
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — DNS filtering and a preliminary smart-TV DNS investigation.
 - [Raspberry Pi 400 — OctoPi 3D Printer Management](https://github.com/bemerson24/raspberry-pi-octopi) — retrospective documentation of a 2020–2024 hardware/software project.
 
