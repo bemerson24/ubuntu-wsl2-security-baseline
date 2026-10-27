@@ -151,6 +151,14 @@ Possible next steps include collecting a baseline into a timestamped text report
 
 The work represents **foundational, guided hands-on experience**, not an advanced security audit or production incident response investigation.
 
+## Related portfolio projects
+
+- [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — Windows and Kali Linux virtualization with host-only networking validation still in progress.
+- [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — DNS filtering and a preliminary smart-TV DNS investigation.
+- [Raspberry Pi 400 — OctoPi 3D Printer Management](https://github.com/bemerson24/raspberry-pi-octopi) — retrospective documentation of a 2020–2024 hardware/software project.
+
+These are separate projects with separate evidence and scope; results from one should not be generalized to another.
+
 ---
 
 *Screenshots are cropped from the original hands-on lab session. Review screenshot content and local usernames/host metadata before publishing publicly.*
