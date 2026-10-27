@@ -160,6 +160,10 @@ The work represents **foundational, guided hands-on experience**, not an advance
 
 These are separate projects with separate evidence and scope; results from one should not be generalized to another.
 
+## Professional profile
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/brianemersonpdx/) for my professional background, education, and career development.
+
 ---
 
 *Screenshots are cropped from the original hands-on lab session. Review screenshot content and local usernames/host metadata before publishing publicly.*
