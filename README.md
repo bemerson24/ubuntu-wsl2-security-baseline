@@ -143,7 +143,7 @@ curl -I --max-time 10 https://example.com
 
 ## Limitations and follow-up
 
-This introductory exercise did **not** verify OS hardening against a benchmark, scan for vulnerabilities, confirm external network exposure, test IPv4 connectivity separately, perform threat hunting, deploy a SIEM, or analyze the host Windows security configuration. No finding here establishes that the system is free of compromise.
+This assessment covers the Ubuntu WSL 2 instance. Benchmark hardening, external port reachability, separate IPv4 testing and the Windows host configuration were outside its scope.
 
 Possible next steps include collecting a baseline into a timestamped text report, comparing repeated snapshots, checking DNS resolver configuration, examining relevant warnings in more detail, and adding a short Bash script to automate **read-only** evidence collection.
 
@@ -151,7 +151,7 @@ Possible next steps include collecting a baseline into a timestamped text report
 
 **Linux fundamentals · Ubuntu · WSL 2 · APT package management · file permissions · systemd · process inspection · network socket inspection · basic log analysis · DNS and HTTPS troubleshooting**
 
-The work represents **foundational, guided hands-on experience**, not an advanced security audit or production incident response investigation.
+This was a guided introductory exercise.
 
 ## Related portfolio projects
 
@@ -160,12 +160,10 @@ The work represents **foundational, guided hands-on experience**, not an advance
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — DNS filtering and a preliminary smart-TV DNS investigation.
 - [Raspberry Pi 400 — OctoPi 3D Printer Management](https://github.com/bemerson24/raspberry-pi-octopi) — retrospective documentation of a 2020–2024 hardware/software project.
 
-These are separate projects with separate evidence and scope; results from one should not be generalized to another.
-
 ## Professional profile
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/brianemersonpdx/) for my professional background, education, and career development.
 
 ---
 
-*Screenshots are cropped from the original hands-on lab session. Review screenshot content and local usernames/host metadata before publishing publicly.*
+*Screenshots are cropped from the original hands-on lab session.*
