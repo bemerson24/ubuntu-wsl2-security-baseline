@@ -1,12 +1,12 @@
 # Linux Security Baseline Assessment — Ubuntu on WSL 2
 
-**Hands-on lab | October 14, 2026 | Introductory Linux administration and security diagnostics**
+**October 14, 2026 | Linux administration and security diagnostics**
 
 ## Overview
 
-**Portfolio overview:** [View the complete cybersecurity learning portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
+**Portfolio overview:** [View the cybersecurity portfolio](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/PORTFOLIO-OVERVIEW.md).
 
-I installed and configured an Ubuntu Linux environment using **Windows Subsystem for Linux (WSL 2)** on a Windows 11 laptop. I then performed a guided, introductory security-baseline exercise covering account privileges, file permissions, running processes, listening network sockets, system services, logs, DNS resolution, and HTTPS connectivity.
+I installed and configured an Ubuntu Linux environment using **Windows Subsystem for Linux (WSL 2)** on a Windows 11 laptop. I then performed a scoped security-baseline review covering account privileges, file permissions, running processes, listening network sockets, system services, logs, DNS resolution, and HTTPS connectivity.
 
 The goal was to establish a **repeatable investigation workflow**: observe system behavior, collect evidence, distinguish expected behavior from potential issues, and verify that a suspected issue still exists before changing configuration.
 
@@ -147,16 +147,16 @@ This assessment covers the Ubuntu WSL 2 instance. Benchmark hardening, external 
 
 Possible next steps include collecting a baseline into a timestamped text report, comparing repeated snapshots, checking DNS resolver configuration, examining relevant warnings in more detail, and adding a short Bash script to automate **read-only** evidence collection.
 
-## Portfolio skills demonstrated
+## Technical coverage
 
 **Linux fundamentals · Ubuntu · WSL 2 · APT package management · file permissions · systemd · process inspection · network socket inspection · basic log analysis · DNS and HTTPS troubleshooting**
 
-This was a guided introductory exercise.
+**Project context:** Guided lab exercise. Commands and screenshots document the observations; scope and unresolved findings are listed above.
 
 ## Related portfolio projects
 
 - [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — Windows and Kali Linux virtualization with host-only networking validation still in progress.
-- [Security Operations Analyst Learning Roadmap](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/docs/security-operations-analyst-roadmap.md) — planned progression from networking and Security+ through Windows logs, KQL/Sentinel, endpoint/identity investigations, and incident response.
+- [Security Operations Project Roadmap](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/docs/security-operations-analyst-roadmap.md) — planned progression from networking and Security+ through Windows logs, KQL/Sentinel, endpoint/identity investigations, and incident response.
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — DNS filtering and a preliminary smart-TV DNS investigation.
 - [Raspberry Pi 400 — OctoPi 3D Printer Management](https://github.com/bemerson24/raspberry-pi-octopi) — retrospective documentation of a 2020–2024 hardware/software project.
 
