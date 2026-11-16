@@ -166,4 +166,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/brianemersonpdx/) for 
 
 ---
 
-*Screenshots are cropped from the original hands-on lab session.*
+*Screenshots are cropped from my original hands-on lab session. On November 16, 2026, I replaced the five public JPEGs with privacy-redacted versions: I obscured my local Linux account name in terminal prompts, ownership columns, tabs and the home-directory path while preserving the commands and relevant diagnostic output. I verified that the replacement file hashes match the published GitHub tree. Earlier Git history may still contain the original files; replacing the current images does not erase previous revisions.*
