@@ -155,7 +155,7 @@ Possible next steps include collecting a baseline into a timestamped text report
 
 ## Related portfolio projects
 
-- [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — Windows and Kali Linux virtualization with host-only networking validation still in progress.
+- [Cybersecurity Virtual Lab Environment](https://github.com/bemerson24/cybersecurity-virtual-lab-environment) — Windows and Kali Linux virtualization with NAT plus an internal lab network; guest-to-guest connectivity testing remains pending due to an unresolved performance issue.
 - [Security Operations Project Roadmap](https://github.com/bemerson24/cybersecurity-virtual-lab-environment/blob/main/docs/security-operations-analyst-roadmap.md) — technical deliverables and acceptance criteria for Windows logs, PowerShell, SIEM/KQL and incident-response projects.
 - [Raspberry Pi Pi-hole](https://github.com/bemerson24/raspberry-pi-pihole) — DNS filtering and a preliminary smart-TV DNS investigation.
 - [Raspberry Pi 400 — OctoPi 3D Printer Management](https://github.com/bemerson24/raspberry-pi-octopi) — retrospective documentation of a 2020–2024 hardware/software project.
